@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+Im currently working on my wifes blog website and learning about:
+* **markdown** 
+* ~~_Git_~~
+* **[static websites]**
+
+>Bye!
+
+
+[static websites]: https://gohugo.io/
 
 <!--
 **Rinrodan/Rinrodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
