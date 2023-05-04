@@ -1,14 +1,15 @@
 # Hi there 👋
 
+I got started making a blog site for my wife using Hugo. After a little bit I wanted to learn how to make a custom site and found freeCodeCamp and it just clicked!
+
 Im currently working on my wifes blog website and learning about:
-* **markdown** 
-* ~~_Git_~~
-* **[static websites]**
+
+* __Javascript__
 
 >Bye!
 
 
-[static websites]: https://gohugo.io/
+[Hugo](https://gohugo.io/) | [freeCodeCamp](freecodecamp.org)
 
 <!--
 **Rinrodan/Rinrodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
