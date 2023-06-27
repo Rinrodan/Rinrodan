@@ -14,4 +14,6 @@ I got started making a blog site for my wife using Hugo. After a little bit I wa
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" alt="React_logo_wordmark" title="React_logo_wordmark" height="30"/>
 <img src="https://react-etc.net/files/2017-10/gatsby-logo.png" alt="gatsby-logo.png" title="gatsby-logo.png" height="30"/>
 </p>
-<p>[![Netlify Status](https://api.netlify.com/api/v1/badges/d7d59ca9-675a-4958-89d5-6e530d205a00/deploy-status)](https://app.netlify.com/sites/bustillosorg/deploys)</p>
+<p>
+  ![Netlify Status](https://api.netlify.com/api/v1/badges/d7d59ca9-675a-4958-89d5-6e530d205a00/deploy-status)](https://app.netlify.com/sites/bustillosorg/deploys)
+</p>
