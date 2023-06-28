@@ -14,10 +14,12 @@ I got started making a blog site for my wife using Hugo. After a little bit I wa
 
 <h3>💻 Languages and Tools: 🛠️</h3>
 
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" alt="css-3-logo" title="css-3-logo" height="30"/>
+
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="logo.js" title="logo.js" height="30"/>
 
 ---
